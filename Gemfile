@@ -17,7 +17,8 @@ gem 'therubyracer', :platform=>:ruby
 gem 'unicorn'
 gem 'unicorn-rails'
 gem 'debugger'
-gem 'highcharts-rails', '~> 3.0.0' 
+gem 'highcharts-rails', '~> 3.0.0'
+gem 'highstock-rails'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]

@@ -27,9 +27,9 @@
 //= require highcharts/modules/funnel
 //= require highcharts/modules/heatmap
 //= require highcharts/modules/no-data-to-display
-//= require highcharts/themes/dark-blue
-//= require highcharts/themes/dark-green
+// require highcharts/themes/dark-blue
+// require highcharts/themes/dark-green
 //= require highcharts/themes/gray
-//= require highcharts/themes/grid
-//= require highcharts/themes/skies
+// require highcharts/themes/grid
+// require highcharts/themes/skies
 //= require_tree .
