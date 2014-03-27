@@ -1,7 +1,7 @@
 Bootstrap with Highcharts Demo
 ==============================
 
-Just fork this repository
+Just fork this repository:
 
 Run "bundle install". 
 
